@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here!](https://your-solution-url.com)
-- Live Site URL: [here!](https://your-live-site-url.com)
+- Solution URL: [here!](https://www.frontendmentor.io/solutions/resposnive-bento-grid-built-with-html-and-css-HFzREjtqq9)
+- Live Site URL: [here!](https://mohamed-devp.github.io/bento-grid/)
 
 ## My process
 
